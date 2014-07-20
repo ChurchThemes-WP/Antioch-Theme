@@ -27,5 +27,5 @@ define( 'CHURCHTHEMES_DEFAULT_BACKGROUND_IMAGE',  WP_THEME_URL . '/images/bg_bod
 define( 'CHURCHTHEMES_DEFAULT_BACKGROUND_COLOR', 'd9d9d1' );
 
 // Update script
-define( 'CHURCHTHEMES_UPDATE_API_URL', 'http://churchthemes.net/' );
-
+define( 'CHURCHTHEMES_UPDATE_API_URL', 'http://churchthemes.net' );
+define( 'CHURCHTHEMES_ITEM_NAME', 'Antioch' );
